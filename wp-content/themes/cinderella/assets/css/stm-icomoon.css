@@ -1,0 +1,97 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?9vex3p');
+	src:url('../fonts/icomoon.eot?#iefix9vex3p') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?9vex3p') format('truetype'),
+		url('../fonts/icomoon.woff?9vex3p') format('woff'),
+		url('../fonts/icomoon.svg?9vex3p#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="stm-icon-"], [class*=" stm-icon-"] {
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.stm-icon-flower-2:before {
+	content: "\e617";
+}
+.stm-icon-phone:before {
+	content: "\e616";
+}
+.stm-icon-clock:before {
+	content: "\e600";
+}
+.stm-icon-hairdryer:before {
+	content: "\e601";
+}
+.stm-icon-pomade:before {
+	content: "\e602";
+}
+.stm-icon-pencil:before {
+	content: "\e603";
+}
+.stm-icon-powder:before {
+	content: "\e604";
+}
+.stm-icon-clips:before {
+	content: "\e605";
+}
+.stm-icon-epilator:before {
+	content: "\e606";
+}
+.stm-icon-perfume:before {
+	content: "\e607";
+}
+.stm-icon-lips:before {
+	content: "\e608";
+}
+.stm-icon-mirror:before {
+	content: "\e609";
+}
+.stm-icon-flourish:before {
+	content: "\e60a";
+}
+.stm-icon-flourish-2:before {
+	content: "\e60b";
+}
+.stm-icon-icon-1:before {
+	content: "\e60c";
+}
+.stm-icon-icon-2:before {
+	content: "\e60d";
+}
+.stm-icon-bag:before {
+	content: "\e60e";
+}
+.stm-icon-shoe:before {
+	content: "\e60f";
+}
+.stm-icon-cosmetics:before {
+	content: "\e610";
+}
+.stm-icon-comb:before {
+	content: "\e611";
+}
+.stm-icon-comb-2:before {
+	content: "\e612";
+}
+.stm-icon-icon-3:before {
+	content: "\e613";
+}
+.stm-icon-eye:before {
+	content: "\e614";
+}
+.stm-icon-map:before {
+	content: "\e615";
+}

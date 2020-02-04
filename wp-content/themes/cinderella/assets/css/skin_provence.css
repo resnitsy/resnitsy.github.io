@@ -1,0 +1,449 @@
+/*
+    Provence Skin Styles
+*/
+
+body.skin_provence h1:after,
+body.skin_provence .h1:after,
+body.skin_provence h2:after,
+body.skin_provence .h2:after,
+body.skin_provence h3:after,
+body.skin_provence .h3:after,
+body.skin_provence h4:after,
+body.skin_provence .h4:after,
+body.skin_provence h5:after,
+body.skin_provence .h5:after,
+body.skin_provence h6:after,
+body.skin_provence .h6:after,
+body.skin_provence .top_nav .top_nav_wrapper,
+body.skin_provence .top_nav .top_nav_wrapper > ul > li ul li:hover > a,
+body.skin_provence .top_nav .top_nav_wrapper > ul > li ul li.current-menu-item > a,
+body.skin_provence .top_nav .main_menu_nav > ul > li ul li:hover > a,
+body.skin_provence .top_nav .main_menu_nav > ul > li ul li.current-menu-item > a,
+body.skin_provence .icon_box .icon:before,
+body.skin_provence .icon_box h4:after,
+body.skin_provence .stm_services_tabs .services_categories ul li.ui-state-active a,
+body.skin_provence .stm_services_tabs .service_tab_item .service_sticker,
+body.skin_provence .dropcarps_circle:before,
+body.skin_provence .vc_progress_bar .vc_single_bar.bar_red .vc_bar,
+body.skin_provence ul.page-numbers .page-numbers.current,
+body.skin_provence ul.page-numbers .page-numbers:hover,
+body.skin_provence ul.page-numbers .page-numbers:active,
+body.skin_provence ul.page-numbers .page-numbers:focus,
+body.skin_provence .page-links > span,
+body.skin_provence .page-links > a:hover,
+body.skin_provence .page-links > a:active,
+body.skin_provence .page-links > a:focus,
+body.skin_provence .not_found_block li:before,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_provence .pricing-table_label,
+body.skin_provence .vacancy_table th.headerSortDown,
+body.skin_provence .vacancy_table th.headerSortUp,
+body.skin_provence .stm_staff .job:after,
+body.skin_provence .stm_staff_2 .job:after,
+body.skin_provence .gallery_grid_filter ul li.active a,
+body.skin_provence .gallery_grid_filter ul li a:hover,
+body.skin_provence .top_bar_info_switcher .active,
+body.skin_provence .top_bar_info_switcher ul,
+body.skin_provence .stm_pricing_list_block .service_tab_item .service_sticker,
+body.skin_provence #frontend_customizer_button,
+body.skin_provence.woocommerce span.onsale,
+body.skin_provence.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{
+    background-color: #d9bc7e;
+}
+
+body.skin_provence .vc_row.colored_1{
+    background-color: #d9bc7e !important;
+}
+
+body.skin_provence .icon_text .icon,
+body.skin_provence .icon_box .icon,
+body.skin_provence .stm_services_tabs .service_tab_item .service_cost,
+body.skin_provence .posts_grid .post_date .post_date_day,
+body.skin_provence .posts_grid .post_info h3 a:hover,
+body.skin_provence .posts_grid li.sticky .post_info h3 a,
+body.skin_provence .widget_contacts .icon,
+body.skin_provence .dropcarps_circle:first-letter,
+body.skin_provence .wpb_content_element ul li:before,
+body.skin_provence .posts_list .post_date .post_date_day,
+body.skin_provence .posts_list .post_info h3 a:hover,
+body.skin_provence .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_provence .pricing-table_content ul li:before,
+body.skin_provence .widget_pages.vc_widgets li a:hover,
+body.skin_provence .widget_pages.vc_widgets li.current_page_item a,
+body.skin_provence .widget_pages.vc_widgets li:hover:before,
+body.skin_provence .widget_pages.vc_widgets li.current_page_item:before,
+body.skin_provence .vc_widgets.widget_contacts .text a:hover,
+body.skin_provence .vacancy_table th:hover:after,
+body.skin_provence .company_history .year,
+body.skin_provence ul.comment-list .comment .comment-meta a:hover,
+body.skin_provence .widget_categories ul li:before,
+body.skin_provence .widget_archive ul li:before,
+body.skin_provence .widget_pages ul li:before,
+body.skin_provence .widget_meta ul li:before,
+body.skin_provence .widget_recent_entries ul li:before,
+body.skin_provence .widget_rss ul li:before,
+body.skin_provence .widget_nav_menu ul li:before,
+body.skin_provence .widget_categories li a:hover,
+body.skin_provence .widget_archive li a:hover,
+body.skin_provence .widget_pages li a:hover,
+body.skin_provence .widget_meta li a:hover,
+body.skin_provence .widget_recent_entries li a:hover,
+body.skin_provence .widget_rss li a:hover,
+body.skin_provence .widget_nav_menu li a:hover,
+body.skin_provence .stm_widget_recent_entries ul li .post_info a:hover,
+body.skin_provence .widget_recent_comments ul li a:hover,
+body.skin_provence .tp_recent_tweets ul li a:hover,
+body.skin_provence .gallery_grid_wrapper.white .gallery_grid_filter ul li.active a,
+body.skin_provence .gallery_grid_wrapper.white .gallery_grid_filter ul li a:hover,
+body.skin_provence #stm_wpml_lang_switcher li a:hover,
+body.skin_provence .top_bar .top_bar_info li .fa,
+body.skin_provence .top_bar .top_bar_socials a:hover,
+body.skin_provence .widget_categories.footer_widgets li a:hover,
+body.skin_provence .widget_archive.footer_widgets li a:hover,
+body.skin_provence .widget_pages.footer_widgets li a:hover,
+body.skin_provence .widget_meta.footer_widgets li a:hover,
+body.skin_provence .widget_recent_entries.footer_widgets li a:hover,
+body.skin_provence .widget_rss.footer_widgets li a:hover,
+body.skin_provence .widget_nav_menu.footer_widgets li a:hover,
+body.skin_provence .widget_recent_comments.footer_widgets ul li a:hover,
+body.skin_provence .stm_pricing_list_block .service_tab_item .service_cost,
+body.skin_provence.woocommerce .star-rating span{
+    color: #d9bc7e;
+}
+
+body.skin_provence .breadcrumbs a:hover,
+body.skin_provence .gallery_grid_switcher:hover{
+    color: #d9bc7e !important;
+}
+
+body.skin_provence ul.page-numbers .page-numbers.current,
+body.skin_provence ul.page-numbers .page-numbers:hover,
+body.skin_provence ul.page-numbers .page-numbers:active,
+body.skin_provence ul.page-numbers .page-numbers:focus,
+body.skin_provence .page-links > span,
+body.skin_provence .page-links > a:hover,
+body.skin_provence .page-links > a:active,
+body.skin_provence .page-links > a:focus,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_provence .stm_pricing-table.has-label,
+body.skin_provence .widget_pages.vc_widgets,
+body.skin_provence .vacancy_table th.headerSortDown,
+body.skin_provence .vacancy_table th.headerSortUp,
+body.skin_provence .widget_categories,
+body.skin_provence .widget_archive,
+body.skin_provence .widget_calendar,
+body.skin_provence .widget_pages,
+body.skin_provence .widget_meta,
+body.skin_provence .widget_recent_entries,
+body.skin_provence .widget_rss,
+body.skin_provence .widget_nav_menu,
+body.skin_provence .gallery_grid_switcher:hover{
+    border-color: #d9bc7e;
+}
+
+body.skin_provence blockquote,
+body.skin_provence .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a{
+    border-left-color: #d9bc7e;
+}
+
+body.skin_provence #frontend_customizer_button:before{
+    border-right-color: #d9bc7e;
+}
+
+body.skin_provence .stm_services_tabs .service_tab_item .service_dots .separator_dots,
+body.skin_provence .stm_pricing_list_block .service_tab_item .service_dots .separator_dots,
+body.skin_provence.woocommerce ul.products li.product .price:after{
+    border-bottom-color: #d9bc7e;
+}
+
+@media only screen and (max-width: 768px) {
+
+    body.skin_provence .mobile_header .header_info,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav > li > a{
+        background-color: #d9bc7e;
+    }
+
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav ul li:active > a,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav li.current_page_item > a,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav > li.current_page_item.menu-item-has-children .arrow,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav li.current-menu-parent > a,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav > li.current-menu-parent.menu-item-has-children .arrow{
+        color: #d9bc7e;
+    }
+
+    body.skin_provence .icon_text .icon{
+        color: #ffffff;
+    }
+
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav li.current_page_item > a,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav > li.current_page_item.menu-item-has-children .arrow,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav li.current-menu-parent > a,
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav > li.current-menu-parent.menu-item-has-children .arrow{
+        background: #ffffff;
+    }
+
+    body.skin_provence .mobile_header .top_nav_mobile .main_menu_nav > li{
+        border-bottom-color: #ffffff;
+    }
+
+}
+
+body.skin_provence.demo #magic-line,
+body.skin_provence.demo .slick_carousel .slick_item:hover a:before{
+    background-color: #5c5b7a;
+}
+
+body.skin_provence a:hover,
+body.skin_provence a:active,
+body.skin_provence .company_history h3,
+body.skin_provence .stm_pricing_list_block h3{
+    color: #5c5b7a;
+}
+
+body.skin_provence.woocommerce #respond input#submit,
+body.skin_provence.woocommerce a.button,
+body.skin_provence.woocommerce button.button,
+body.skin_provence.woocommerce input.button{
+    background-color: transparent;
+}
+
+body.skin_provence a.button,
+body.skin_provence .button,
+body.skin_provence .form-submit .submit,
+body.skin_provence .post-password-form input[type="submit"],
+body.skin_provence .vc_btn3.vc_btn3-color-pink,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-flat,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:focus,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_provence .stm_staff_2 .staff_socials li a:hover,
+body.skin_provence .tagcloud a:hover,
+body.skin_provence .vc_images_carousel .vc_carousel-control,
+body.skin_provence .vc_images_carousel .vc_carousel-indicators .vc_active,
+body.skin_provence.woocommerce #respond input#submit:hover,
+body.skin_provence.woocommerce a.button:hover,
+body.skin_provence.woocommerce button.button:hover,
+body.skin_provence.woocommerce input.button:hover,
+body.skin_provence.woocommerce .quantity_actions span:hover,
+body.skin_provence.woocommerce #respond input#submit.alt,
+body.skin_provence.woocommerce a.button.alt,
+body.skin_provence.woocommerce button.button.alt,
+body.skin_provence.woocommerce input.button.alt,
+body.skin_provence.woocommercbody.skin_provencee #respond input#submit.alt.disabled,
+body.skin_provence.woocommerce #respond input#submit.alt.disabled:hover,
+body.skin_provence.woocommerce #respond input#submit.alt:disabled,
+body.skin_provence.woocommerce #respobody.skin_provencend input#submit.alt:disabled:hover,
+body.skin_provence.woocommerce #respond input#submit.alt:disabled[disabled],
+body.skin_provence.woocommerce #respond input#submit.alt:disabled[disabled]:hover,
+body.skin_provence.woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover,
+body.skin_provence.woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover,
+body.skin_provence.woocommerce a.button.alt:disabled[disabled],
+body.skin_provence.woocommerce a.button.alt:disabled[disabled]:hover,
+body.skin_provence.woocommerce button.button.alt.disabled,
+body.skin_provence.woocommerce button.button.alt.disabled:hover,
+body.skin_provence.woocommerce button.button.alt:disabled,
+body.skin_provence.woocommerce button.button.alt:disabled:hover,
+body.skin_provence.woocommerce button.button.alt:disabled[disabled],
+body.skin_provence.woocommerce button.button.alt:disabled[disabled]:hover,
+body.skin_provence.woocommerce input.button.alt.disabled,
+body.skin_provence.woocommerce input.button.alt.disabled:hover,
+body.skin_provence.woocommerce input.button.alt:disabled,
+body.skin_provence.woocommerce input.button.alt:disabled:hover,
+body.skin_provence.woocommerce input.button.alt:disabled[disabled],
+body.skin_provence.woocommerce input.button.alt:disabled[disabled]:hover,
+body.skin_provence.woocommerce #respond input#submit,
+body.skin_provence.woocommerce input.button.flat,
+body.skin_provence.woocommerce .search-form button.button,
+body.skin_provence .woocommerce #respond input#submit,
+body.skin_provence .woocommerce input.button.flat,
+body.skin_provence .woocommerce .search-form button.button,
+body.skin_provence .woocommerce #respond input#submit.alt,
+body.skin_provence .woocommerce a.button.alt,
+body.skin_provence .woocommerce button.button.alt,
+body.skin_provence .woocommerce input.button.alt{
+    background-color: #819e5f;
+}
+
+body.skin_provence a,
+body.skin_provence a.button.outline,
+body.skin_provence .button.outline,
+body.skin_provence .icon_box h4 a:hover,
+body.skin_provence .stm_services_tabs .service_tab_item .service_name a:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-white,
+body.skin_provence .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat,
+body.skin_provence .vc_btn3.vc_btn3-color-white:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-white:focus,
+body.skin_provence .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat:focus,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_provence ul.post_details a:hover,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover a,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus a,
+body.skin_provence .vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a,
+body.skin_provence .stm_staff .staff_socials ul li a:hover,
+body.skin_provence .stm_staff_2 .staff_socials li a,
+body.skin_provence .service_list h4 a:hover,
+body.skin_provence .gallery_grid_filter ul li a,
+body.skin_provence .stm_pricing_list_block .service_tab_item .service_name a:hover,
+body.skin_provence.woocommerce ul.products li.product h4 a:hover,
+body.skin_provence.woocommerce #respond input#submit,
+body.skin_provence.woocommerce a.button,
+body.skin_provence.woocommerce button.button,
+body.skin_provence.woocommerce input.button,
+body.skin_provence.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+body.skin_provence .copyright a:hover{
+    color: #819e5f;
+}
+
+body.skin_provence .gallery_grid_switcher{
+    color: #819e5f !important;
+}
+
+body.skin_provence .button,
+body.skin_provence .form-submit .submit,
+body.skin_provence .post-password-form input[type="submit"],
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_provence ul.page-numbers .page-numbers,
+body.skin_provence .page-links > a,
+body.skin_provence .page-links > span,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover .vc_tta-controls-icon::before,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover .vc_tta-controls-icon::after,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus .vc_tta-controls-icon::before,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus .vc_tta-controls-icon::after,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:focus,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_provence .our_partners > ul > li:hover .logo,
+body.skin_provence .stm_staff .staff_socials ul li a:hover,
+body.skin_provence .stm_staff_2 .staff_socials li a,
+body.skin_provence .vc_images_carousel .vc_carousel-indicators li,
+body.skin_provence .vc_images_carousel .vc_carousel-indicators .vc_active,
+body.skin_provence .gallery_grid_switcher,
+body.skin_provence .product_thumbnail:hover,
+body.skin_provence.woocommerce #respond input#submit:hover,
+body.skin_provence.woocommerce a.button:hover,
+body.skin_provence.woocommerce button.button:hover,
+body.skin_provence.woocommerce input.button:hover,
+body.skin_provence.woocommerce .quantity_actions span:hover,
+body.skin_provence.woocommerce #respond input#submit,
+body.skin_provence.woocommerce input.button.flat,
+body.skin_provence.woocommerce .search-form button.button,
+body.skin_provence .woocommerce #respond input#submit:hover,
+body.skin_provence .woocommerce input.button.flat:hover,
+body.skin_provence .woocommerce .search-form button.button:hover,
+body.skin_provence .woocommerce #respond input#submit.alt:hover,
+body.skin_provence .woocommerce a.button.alt:hover,
+body.skin_provence .woocommerce button.button.alt:hover,
+body.skin_provence .woocommerce input.button.alt:hover{
+    border-color: #819e5f;
+}
+
+body.skin_provence .icon_button .button.outline span{
+    border-left-color: #819e5f;
+}
+
+body.skin_provence .select2-container--default .select2-selection--single .select2-selection__arrow b{
+    border-top-color: #819e5f;
+}
+
+body.skin_provence .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b{
+    border-bottom-color: #819e5f;
+}
+
+body.skin_provence .top_nav .icon_text .icon,
+body.skin_provence a.button,
+body.skin_provence .button,
+body.skin_provence .form-submit .submit,
+body.skin_provence .post-password-form input[type="submit"],
+body.skin_provence .breadcrumbs a,
+body.skin_provence .breadcrumbs,
+body.skin_provence .title_box_secondary_text,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover a,
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus a,
+body.skin_provence .vacancy_table th.headerSortDown:after,
+body.skin_provence .vacancy_table th.headerSortUp:after,
+body.skin_provence .vacancy_table th.headerSortDown:hover:after,
+body.skin_provence .vacancy_table th.headerSortUp:hover:after,
+body.skin_provence .stm_staff_2 .staff_socials li a:hover,
+body.skin_provence .gallery_grid_filter ul li.active a,
+body.skin_provence .gallery_grid_filter ul li a:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:focus,
+body.skin_provence .tagcloud a:hover,
+body.skin_provence.woocommerce #respond input#submit:hover,
+body.skin_provence.woocommerce a.button:hover,
+body.skin_provence.woocommerce button.button:hover,
+body.skin_provence.woocommerce input.button:hover,
+body.skin_provence.woocommerce #respond input#submit.alt,
+body.skin_provence.woocommerce a.button.alt,
+body.skin_provence.woocommerce button.button.alt,
+body.skin_provence.woocommerce input.button.alt,
+body.skin_provence.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+body.skin_provence.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover,
+body.skin_provence.woocommerce #respond input#submit,
+body.skin_provence.woocommerce input.button.flat,
+body.skin_provence.woocommerce .search-form button.button,
+body.skin_provence .widget_contacts .text a:hover{
+    color: #ffffff;
+}
+
+body.skin_provence .icon_box h4 a,
+body.skin_provence .service_list h4 a,
+ul.post_details a
+{
+    color: #333333;
+}
+
+body.skin_provence .widget_categories li a,
+body.skin_provence .widget_archive li a,
+body.skin_provence .widget_pages li a,
+body.skin_provence .widget_meta li a,
+body.skin_provence .widget_recent_entries li a,
+body.skin_provence .widget_rss li a,
+body.skin_provence .widget_nav_menu li a {
+    color: #777777;
+}
+
+body.skin_provence .tagcloud a{
+    color: #999999;
+}
+
+body.skin_provence a.button:hover,
+body.skin_provence .button:hover,
+body.skin_provence .form-submit .submit:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-pink:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-flat:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-pink:focus,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-flat:focus,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:hover,
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:focus{
+    background-color: rgba(89, 129, 40, 0.9);
+    border-color: rgba(89, 129, 40, 0.9);
+}
+
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:focus{
+    color: rgba(89, 129, 40, 0.9);
+}
+
+body.skin_provence .vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::after, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover .vc_tta-controls-icon::after, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus .vc_tta-controls-icon::after{
+    border-color: #fff;
+}
+
+body.skin_provence .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_provence .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_provence .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:focus{
+    background-color: transparent;
+}
+
+body.skin_provence.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover{
+    color: #6b6b6b;
+}

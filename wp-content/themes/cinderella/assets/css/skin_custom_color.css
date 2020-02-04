@@ -1,0 +1,84 @@
+/*
+    Custom Color Skin Styles
+*/
+
+body.skin_custom_color.woocommerce #respond input#submit,
+body.skin_custom_color.woocommerce a.button,
+body.skin_custom_color.woocommerce button.button,
+body.skin_custom_color.woocommerce input.button{
+    background-color: transparent;
+}
+
+body.skin_custom_color .top_nav .icon_text .icon,
+body.skin_custom_color a.button,
+body.skin_custom_color .button,
+body.skin_custom_color .form-submit .submit,
+body.skin_custom_color .post-password-form input[type="submit"],
+body.skin_custom_color .breadcrumbs a,
+body.skin_custom_color .breadcrumbs,
+body.skin_custom_color .title_box_secondary_text,
+body.skin_custom_color .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+body.skin_custom_color .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover a,
+body.skin_custom_color .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus a,
+body.skin_custom_color .vacancy_table th.headerSortDown:after,
+body.skin_custom_color .vacancy_table th.headerSortUp:after,
+body.skin_custom_color .vacancy_table th.headerSortDown:hover:after,
+body.skin_custom_color .vacancy_table th.headerSortUp:hover:after,
+body.skin_custom_color .stm_staff_2 .staff_socials li a:hover,
+body.skin_custom_color .gallery_grid_filter ul li.active a,
+body.skin_custom_color .gallery_grid_filter ul li a:hover,
+body.skin_custom_color .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:hover,
+body.skin_custom_color .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:focus,
+body.skin_custom_color .tagcloud a:hover,
+body.skin_custom_color.woocommerce #respond input#submit:hover,
+body.skin_custom_color.woocommerce a.button:hover,
+body.skin_custom_color.woocommerce button.button:hover,
+body.skin_custom_color.woocommerce input.button:hover,
+body.skin_custom_color.woocommerce #respond input#submit.alt,
+body.skin_custom_color.woocommerce a.button.alt,
+body.skin_custom_color.woocommerce button.button.alt,
+body.skin_custom_color.woocommerce input.button.alt,
+body.skin_custom_color.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+body.skin_custom_color.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover,
+body.skin_custom_color.woocommerce #respond input#submit,
+body.skin_custom_color.woocommerce input.button.flat,
+body.skin_custom_color.woocommerce .search-form button.button,
+body.skin_custom_color .widget_contacts .text a:hover{
+    color: #ffffff;
+}
+
+body.skin_custom_color .icon_box h4 a,
+body.skin_custom_color .service_list h4 a,
+ul.post_details a
+{
+    color: #333333;
+}
+
+body.skin_custom_color .widget_categories li a,
+body.skin_custom_color .widget_archive li a,
+body.skin_custom_color .widget_pages li a,
+body.skin_custom_color .widget_meta li a,
+body.skin_custom_color .widget_recent_entries li a,
+body.skin_custom_color .widget_rss li a,
+body.skin_custom_color .widget_nav_menu li a {
+    color: #777777;
+}
+
+body.skin_custom_color .tagcloud a{
+    color: #999999;
+}
+
+body.skin_custom_color .vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::after, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover .vc_tta-controls-icon::after, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus .vc_tta-controls-icon::after{
+    border-color: #fff;
+}
+
+body.skin_custom_color .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_custom_color .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_custom_color .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_custom_color .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:focus{
+    background-color: transparent;
+}
+
+body.skin_custom_color.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover{
+    color: #6b6b6b;
+}

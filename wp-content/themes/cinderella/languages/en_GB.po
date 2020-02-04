@@ -1,0 +1,4225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cinderella\n"
+"POT-Creation-Date: 2015-07-22 10:33+0500\n"
+"PO-Revision-Date: 2015-07-22 10:33+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/marchello/WEB/www/cinderella.stm/wp-content/"
+"themes/\n"
+"X-Poedit-SearchPath-0: cinderella\n"
+
+#: cinderella/comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: cinderella/comments.php:30
+msgid "Older Comments"
+msgstr ""
+
+#: cinderella/comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: cinderella/comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: cinderella/functions.php:43
+msgid "Top Menu"
+msgstr ""
+
+#: cinderella/functions.php:49
+msgid "Left Sidebar"
+msgstr ""
+
+#: cinderella/functions.php:61
+msgid "Right Sidebar"
+msgstr ""
+
+#: cinderella/functions.php:73
+#: cinderella/inc/redux-framework/options-init.php:942
+msgid "Footer"
+msgstr ""
+
+#: cinderella/searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: cinderella/inc/extras.php:160
+#: cinderella/woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: cinderella/inc/extras.php:161
+#: cinderella/woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr ""
+
+#: cinderella/inc/extras.php:166
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: cinderella/inc/extras.php:168
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: cinderella/inc/extras.php:169
+#: cinderella/woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: cinderella/inc/extras.php:175
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: cinderella/inc/extras.php:198 cinderella/inc/visual_composer.php:819
+#: cinderella/inc/visual_composer.php:985
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:582
+#: cinderella/woocommerce/single-product-reviews.php:64
+msgid "Name"
+msgstr ""
+
+#: cinderella/inc/extras.php:203
+msgid "E-mail"
+msgstr ""
+
+#: cinderella/inc/extras.php:208
+msgid "Website"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:4
+#: cinderella/inc/redux-framework/options-init.php:753
+msgid "Page Options"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:7
+msgid "Page Header"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:11
+msgid "Transparent Header"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:15
+msgid "Page Background"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:19 cinderella/inc/metaboxes.php:54
+#: cinderella/inc/redux-framework/options-init.php:812
+msgid "Background Color"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:23
+#: cinderella/inc/redux-framework/options-init.php:767
+#: cinderella/inc/redux-framework/options-init.php:832
+msgid "Background Image"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:27 cinderella/inc/metaboxes.php:74
+#: cinderella/inc/visual_composer.php:118
+#: cinderella/inc/redux-framework/options-init.php:772
+#: cinderella/inc/redux-framework/options-init.php:842
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:31 cinderella/inc/metaboxes.php:84
+#: cinderella/inc/redux-framework/options-init.php:777
+#: cinderella/inc/redux-framework/options-init.php:847
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:34 cinderella/inc/metaboxes.php:87
+#: cinderella/inc/redux-framework/options-init.php:780
+#: cinderella/inc/redux-framework/options-init.php:850
+msgid "Repeat"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:35 cinderella/inc/metaboxes.php:88
+#: cinderella/inc/redux-framework/options-init.php:781
+#: cinderella/inc/redux-framework/options-init.php:851
+msgid "No Repeat"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:36 cinderella/inc/metaboxes.php:89
+#: cinderella/inc/redux-framework/options-init.php:782
+#: cinderella/inc/redux-framework/options-init.php:852
+msgid "Repeat-X"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:37 cinderella/inc/metaboxes.php:90
+#: cinderella/inc/redux-framework/options-init.php:783
+#: cinderella/inc/redux-framework/options-init.php:853
+msgid "Repeat-Y"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:41
+msgid "Title Box"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:45 cinderella/inc/visual_composer.php:171
+#: cinderella/inc/visual_composer.php:358
+#: cinderella/inc/visual_composer.php:528
+#: cinderella/inc/visual_composer.php:629
+#: cinderella/inc/visual_composer.php:724
+#: cinderella/inc/visual_composer.php:750
+#: cinderella/inc/visual_composer.php:785
+#: cinderella/inc/visual_composer.php:912
+#: cinderella/inc/redux-framework/options-init.php:800
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:145
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:48 cinderella/inc/metaboxes.php:102
+#: cinderella/inc/redux-framework/options-init.php:803
+#: cinderella/inc/redux-framework/options-init.php:873
+msgid "Show"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:49 cinderella/inc/metaboxes.php:103
+#: cinderella/inc/redux-framework/options-init.php:804
+#: cinderella/inc/redux-framework/options-init.php:874
+msgid "Hide"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:59 cinderella/inc/metaboxes.php:132
+#: cinderella/inc/redux-framework/options-init.php:819
+#: cinderella/inc/redux-framework/options-init.php:916
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:64
+#: cinderella/inc/redux-framework/options-init.php:826
+msgid "Line Color"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:69
+msgid "Custom Background Image"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:79 cinderella/inc/visual_composer.php:124
+#: cinderella/inc/redux-framework/options-init.php:837
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:95 cinderella/inc/metaboxes.php:99
+#: cinderella/inc/redux-framework/options-init.php:870
+msgid "Breadcrumbs"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:108
+#: cinderella/inc/redux-framework/options-init.php:882
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:113
+msgid "Title Box Button"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:117
+#: cinderella/inc/redux-framework/options-init.php:898
+msgid "Button Text"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:122
+#: cinderella/inc/redux-framework/options-init.php:903
+msgid "Button URL"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:127 cinderella/inc/metaboxes.php:152
+#: cinderella/inc/redux-framework/options-init.php:909
+msgid "Border Color"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:137
+#: cinderella/inc/redux-framework/options-init.php:923
+msgid "Font Color (hover)"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:142
+#: cinderella/inc/redux-framework/options-init.php:930
+msgid "Arrow Color"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:147 cinderella/inc/visual_composer.php:561
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1712
+msgid "Enable"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:157
+msgid "Arrow Color (hover)"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:164 cinderella/inc/metaboxes.php:177
+#: cinderella/inc/redux-framework/redux-framework/framework.php:225
+#: cinderella/inc/redux-framework/redux-framework/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:167
+msgid "Cost"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:171
+msgid "Sticky Text"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:180
+#: cinderella/vc_templates/stm_vacancies.php:18
+msgid "Location"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:184
+#: cinderella/vc_templates/stm_vacancies.php:19
+msgid "Department"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:188
+msgid "Job Type"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:192
+msgid "Education"
+msgstr ""
+
+#: cinderella/inc/metaboxes.php:196
+msgid "Compensation"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:71
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:74
+#: cinderella/inc/redux-framework/options-init.php:156
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1861
+msgid "Default"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:75
+msgid "Icon Bottom"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:76
+msgid "Theme Style"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:82
+#: cinderella/inc/visual_composer.php:176
+#: cinderella/inc/visual_composer.php:485
+msgid "Icon"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:93
+#: cinderella/inc/visual_composer.php:191
+#: cinderella/inc/visual_composer.php:500
+msgid "Icon Size"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:96
+#: cinderella/inc/visual_composer.php:194
+#: cinderella/inc/visual_composer.php:503
+msgid "Enter icon size in px"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:105
+msgid "Icon Color"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:120
+#: cinderella/inc/visual_composer.php:126
+msgid "Design Options"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:133
+#: cinderella/inc/visual_composer.php:182
+#: cinderella/inc/visual_composer.php:491
+#: cinderella/inc/visual_composer.php:845
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:136
+#: cinderella/inc/visual_composer.php:848
+msgid "Style 1"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:137
+#: cinderella/inc/visual_composer.php:849
+msgid "Style 2"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:146
+#: cinderella/inc/visual_composer.php:225
+#: cinderella/inc/visual_composer.php:265
+#: cinderella/inc/visual_composer.php:285
+#: cinderella/inc/visual_composer.php:306
+#: cinderella/inc/visual_composer.php:343
+#: cinderella/inc/visual_composer.php:373
+#: cinderella/inc/visual_composer.php:459
+#: cinderella/inc/visual_composer.php:514
+#: cinderella/inc/visual_composer.php:576
+#: cinderella/inc/visual_composer.php:654
+#: cinderella/inc/visual_composer.php:682
+#: cinderella/inc/visual_composer.php:696
+#: cinderella/inc/visual_composer.php:709
+#: cinderella/inc/visual_composer.php:729
+#: cinderella/inc/visual_composer.php:770
+#: cinderella/inc/visual_composer.php:872
+#: cinderella/inc/visual_composer.php:886
+#: cinderella/inc/visual_composer.php:899
+#: cinderella/inc/visual_composer.php:926
+#: cinderella/inc/visual_composer.php:940
+#: cinderella/inc/visual_composer.php:953
+#: cinderella/inc/visual_composer.php:971
+#: cinderella/inc/visual_composer.php:1016
+msgid "Css"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:148
+#: cinderella/inc/visual_composer.php:227
+#: cinderella/inc/visual_composer.php:267
+#: cinderella/inc/visual_composer.php:287
+#: cinderella/inc/visual_composer.php:308
+#: cinderella/inc/visual_composer.php:345
+#: cinderella/inc/visual_composer.php:375
+#: cinderella/inc/visual_composer.php:516
+#: cinderella/inc/visual_composer.php:578
+#: cinderella/inc/visual_composer.php:656
+#: cinderella/inc/visual_composer.php:684
+#: cinderella/inc/visual_composer.php:731
+#: cinderella/inc/visual_composer.php:874
+#: cinderella/inc/visual_composer.php:928
+#: cinderella/inc/visual_composer.php:973
+#: cinderella/inc/visual_composer.php:1018
+msgid "Design options"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:163
+msgid "Icon Box"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:166
+#: cinderella/inc/visual_composer.php:235
+#: cinderella/inc/visual_composer.php:275
+#: cinderella/inc/visual_composer.php:296
+#: cinderella/inc/visual_composer.php:317
+#: cinderella/inc/visual_composer.php:354
+#: cinderella/inc/visual_composer.php:402
+#: cinderella/inc/visual_composer.php:470
+#: cinderella/inc/visual_composer.php:524
+#: cinderella/inc/visual_composer.php:672
+#: cinderella/inc/visual_composer.php:692
+#: cinderella/inc/visual_composer.php:705
+#: cinderella/inc/visual_composer.php:720
+#: cinderella/inc/visual_composer.php:741
+#: cinderella/inc/visual_composer.php:766
+#: cinderella/inc/visual_composer.php:781
+#: cinderella/inc/visual_composer.php:815
+#: cinderella/inc/visual_composer.php:882
+#: cinderella/inc/visual_composer.php:895
+#: cinderella/inc/visual_composer.php:908
+#: cinderella/inc/visual_composer.php:936
+#: cinderella/inc/visual_composer.php:949
+#: cinderella/inc/visual_composer.php:962
+#: cinderella/inc/visual_composer.php:981
+msgid "STM"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:185
+msgid "Icon Top"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:186
+msgid "Icon Left"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:198
+#: cinderella/inc/visual_composer.php:507
+msgid "Icon Height"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:201
+#: cinderella/inc/visual_composer.php:510
+msgid "Enter icon height in px"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:209
+msgid "Icon Width"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:212
+msgid "Enter icon width in px"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:220
+#: cinderella/inc/visual_composer.php:571
+msgid "Text"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:233
+msgid "Image Carousel"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:239
+#: cinderella/inc/visual_composer.php:966
+msgid "Images"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:242
+msgid "Select images from media library."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:246
+msgid "Image size"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:248
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"image_carousel\" size."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:252
+msgid "Slides per view"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:255
+msgid "Enter number of slides to display at the same time."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:259
+#: cinderella/inc/visual_composer.php:279
+#: cinderella/inc/visual_composer.php:613
+msgid "Extra class name"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:261
+#: cinderella/inc/visual_composer.php:281
+#: cinderella/inc/visual_composer.php:615
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:273
+msgid "Services With Tabs"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:293
+msgid "Testimonials"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:300
+msgid "Count"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:314
+msgid "Posts"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:321
+msgid "Content"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:328
+msgid "Create WordPress loop."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:332
+msgid "Posts in a row"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:351
+msgid "Promo Block"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:363
+#: cinderella/inc/visual_composer.php:755
+#: cinderella/inc/visual_composer.php:801
+#: cinderella/inc/visual_composer.php:840
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:149
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:368
+msgid "Height (px)"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:399
+msgid "Bookly"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:467
+msgid "Icon Button"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:474
+#: cinderella/inc/visual_composer.php:806
+msgid "Link"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:479
+msgid "Sub Text"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:494
+msgid "Flat"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:495
+msgid "Outline"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:522
+msgid "Pricing Tables"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:533
+msgid "Prefix"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:538
+#: cinderella/woocommerce/cart/cart.php:26
+#: cinderella/woocommerce/emails/admin-cancelled-order.php:24
+#: cinderella/woocommerce/emails/admin-new-order.php:29
+#: cinderella/woocommerce/emails/customer-completed-order.php:29
+#: cinderella/woocommerce/emails/customer-invoice.php:33
+#: cinderella/woocommerce/emails/customer-note.php:33
+#: cinderella/woocommerce/emails/customer-processing-order.php:29
+msgid "Price"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:543
+msgid "Separator"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:548
+msgid "Postfix"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:553
+msgid "Button"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:558
+msgid "Label State"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:566
+msgid "Label Text"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:584 cinderella/inc/widgets/pages.php:21
+msgid "Pages"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:587
+#: cinderella/inc/visual_composer.php:624
+msgid "STM Widgets"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:590
+msgid "Your sites WordPress Pages"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:594
+msgid "Order by"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:597 cinderella/inc/widgets/pages.php:84
+msgid "Page title"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:598 cinderella/inc/widgets/pages.php:85
+msgid "Page order"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:599 cinderella/inc/widgets/pages.php:86
+msgid "Page ID"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:601
+msgid "Select how to sort pages."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:606
+msgid "Include"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:608
+msgid "Enter page IDs to be excluded (Note: separate values by commas (,))."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:621
+#: cinderella/inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:634
+#: cinderella/inc/redux-framework/options-init.php:217
+#: cinderella/inc/redux-framework/options-init.php:225
+#: cinderella/inc/redux-framework/options-init.php:242
+#: cinderella/inc/redux-framework/options-init.php:259
+#: cinderella/inc/redux-framework/options-init.php:332
+#: cinderella/inc/redux-framework/options-init.php:340
+#: cinderella/inc/redux-framework/options-init.php:357
+#: cinderella/inc/redux-framework/options-init.php:374
+#: cinderella/inc/redux-framework/options-init.php:402
+#: cinderella/inc/redux-framework/options-init.php:409
+#: cinderella/inc/redux-framework/options-init.php:425
+#: cinderella/inc/redux-framework/options-init.php:441
+msgid "Address"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:639
+#: cinderella/inc/visual_composer.php:1001
+#: cinderella/inc/redux-framework/options-init.php:226
+#: cinderella/inc/redux-framework/options-init.php:243
+#: cinderella/inc/redux-framework/options-init.php:260
+#: cinderella/inc/redux-framework/options-init.php:341
+#: cinderella/inc/redux-framework/options-init.php:358
+#: cinderella/inc/redux-framework/options-init.php:375
+#: cinderella/inc/redux-framework/options-init.php:410
+#: cinderella/inc/redux-framework/options-init.php:426
+#: cinderella/inc/redux-framework/options-init.php:442
+msgid "Phone"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:644
+msgid "Fax"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:649
+#: cinderella/inc/visual_composer.php:1006
+#: cinderella/woocommerce/single-product-reviews.php:67
+#: cinderella/woocommerce/order/order-details.php:168
+msgid "Email"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:662
+msgid "Select"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:670
+msgid "STM Sidebar"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:676
+#: cinderella/inc/redux-framework/options-init.php:483
+#: cinderella/inc/redux-framework/options-init.php:510
+msgid "Sidebar"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:690
+msgid "Vacancies"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:703
+msgid "Vacancy Details"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:716
+msgid "Company History"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:738
+#: cinderella/inc/visual_composer.php:778
+msgid "Item"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:745
+msgid "Year"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:762
+msgid "Our Partners"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:790
+msgid "Logo"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:795
+#: cinderella/inc/visual_composer.php:829
+#: cinderella/inc/visual_composer.php:995
+msgid "Image Size"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:797
+#: cinderella/inc/visual_composer.php:997
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:813
+msgid "Staff"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:824
+msgid "Staff Image"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:831
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"staff_image\" size."
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:835
+msgid "Job Title"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:854
+#: cinderella/inc/redux-framework/options-init.php:987
+msgid "Facebook"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:856
+#: cinderella/inc/visual_composer.php:862
+#: cinderella/inc/visual_composer.php:868
+msgid "Socials"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:860
+#: cinderella/inc/redux-framework/options-init.php:995
+msgid "Twitter"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:866
+#: cinderella/inc/redux-framework/options-init.php:1039
+msgid "Linkedin"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:880
+msgid "Post Info"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:893
+msgid "Post Tags"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:906
+msgid "Share"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:917
+msgid "Code"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:934
+msgid "Post Author Box"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:947
+msgid "Post Comments"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:960
+msgid "STM Gallery"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:979
+#: cinderella/inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:990
+msgid "Image"
+msgstr ""
+
+#: cinderella/inc/visual_composer.php:1011
+#: cinderella/inc/redux-framework/options-init.php:1095
+msgid "Skype"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:31
+#: cinderella/inc/redux-framework/options-init.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:87
+msgid "General"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:95
+msgid "Site Logo"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:97
+msgid "Upload your logo file here."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:103
+msgid "White-text Logo"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:105
+msgid "Upload it here if you choose our transparent header options"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:114
+msgid "Logo Margin"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:116
+msgid "Set your logo margin in px. Just use the number"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:125
+msgid "Logo Dimensions (px)"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:137
+msgid "Site Favicon"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:139
+msgid "Upload a 16px x 16px .png or .gif image here"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:145
+msgid "Header"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:153
+msgid "Header Style Options"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:154
+msgid "Select your header style option"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:157
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:124
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/color/field_color.php:73
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:158
+msgid "Dark"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:159
+msgid "White"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:166
+msgid "Enable fixed header on scroll."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:172
+msgid "Enable Header WPML Switcher"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:178
+msgid "Enable header social media icons"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:184
+msgid "Select Social Media icons to display"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:185
+#: cinderella/inc/redux-framework/options-init.php:291
+msgid ""
+"The urls for your social media icons will be taken from Social Media "
+"settings tab."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:218
+msgid "8008 Zurich, Switzerland<br/>Zollikerstrasse 82"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:223
+#: cinderella/inc/redux-framework/options-init.php:338
+#: cinderella/inc/redux-framework/options-init.php:407
+msgid "Address Icon"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:227
+#: cinderella/inc/redux-framework/options-init.php:244
+#: cinderella/inc/redux-framework/options-init.php:261
+#: cinderella/inc/redux-framework/options-init.php:342
+#: cinderella/inc/redux-framework/options-init.php:359
+#: cinderella/inc/redux-framework/options-init.php:376
+#: cinderella/inc/redux-framework/options-init.php:411
+#: cinderella/inc/redux-framework/options-init.php:427
+#: cinderella/inc/redux-framework/options-init.php:443
+msgid "Hours"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:234
+#: cinderella/inc/redux-framework/options-init.php:349
+#: cinderella/inc/redux-framework/options-init.php:418
+msgid "Working Hours"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:235
+msgid "Tuesday - Sunday 9.00 am - 7.00 pm<br/>Saturday & Monday Closed"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:240
+msgid "Working Hours Icon"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:251
+#: cinderella/inc/redux-framework/options-init.php:366
+#: cinderella/inc/redux-framework/options-init.php:434
+msgid "Phone number"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:252
+msgid "<strong>555 222 53 42</strong><span>Free call</span>"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:257
+msgid "Phone number Icon"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:270
+msgid "Enable Top Bar"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:278
+msgid "Enable Top Bar WPML Switcher"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:284
+msgid "Enable Top Bar Social Media icons"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:290
+msgid "Select Social Media Icons to display"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:320
+msgid "Location 1"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:326
+#: cinderella/inc/redux-framework/options-init.php:397
+msgid "Office (for dropdown options)"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:327
+msgid "New York Office"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:333
+msgid "1010 Moon ave, New York, NY US"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:350
+msgid "Mon - Sat 8.00 - 18.00"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:355
+#: cinderella/inc/redux-framework/options-init.php:423
+msgid "Hours Icon"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:367
+msgid "Call Free:  +1 212-226-3126"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:372
+#: cinderella/inc/redux-framework/options-init.php:439
+msgid "Phone Icon"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:391
+#, php-format
+msgid "Location %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:455
+msgid "Top Bar"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:463
+#: cinderella/partials/title_box.php:30
+msgid "Blog"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:472
+msgid "Grid view"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:473
+msgid "List view"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:476
+msgid "Blog Layout"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:488
+#: cinderella/inc/redux-framework/options-init.php:515
+msgid "Sidebar - Position"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:490
+#: cinderella/inc/redux-framework/options-init.php:517
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:159
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:491
+#: cinderella/inc/redux-framework/options-init.php:518
+msgid "No Sidebar"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:492
+#: cinderella/inc/redux-framework/options-init.php:519
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:145
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:500
+msgid "Shop"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:527
+msgid "Typography"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:534
+msgid "Body"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:550
+msgid "Select custom font for your main body text."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:560
+msgid "Links Color"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:571
+msgid "Heading"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:587
+msgid "Select custom font for headings"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:596
+msgid "H1"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:622
+msgid "H2"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:648
+msgid "H3"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:674
+msgid "H4"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:700
+msgid "H5"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:726
+msgid "H6"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:760
+msgid "Page Background Default Settings"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:794
+msgid "Title Box Default Settings"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:864
+msgid "Page Breadcrumbs Default Settings"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:892
+msgid "Title Box Button Default Settings"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:950
+msgid "Enable footer widgets area."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:956
+msgid "Footer Columns"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:957
+msgid "Select the number of columns to display in the footer."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:962
+msgid "1 Columns"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:963
+msgid "2 Columns"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:964
+msgid "3 Columns"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:965
+msgid "4 Columns"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:971
+msgid "Footer Copyright"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:972
+msgid "Enter the copyright text."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:973
+msgid ""
+"Copyright &copy; 2015 Cinderella Theme by <a target=\"_blank\" href=\"http://"
+"www.stylemixthemes.com/\">Stylemix Themes</a>"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:979
+msgid "Social Media"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:981
+msgid ""
+"Enter social media urls here and then you can enable them for footer or "
+"header. Please add full URLs including \"http://\"."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:990
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:998
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1003
+#: cinderella/inc/widgets/instagram.php:12
+#: cinderella/inc/widgets/instagram.php:89
+msgid "Instagram"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1006
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1011
+msgid "Behance"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1013
+msgid "Enter your Behance URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1018
+msgid "Dribbble"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1020
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1025
+msgid "Flickr"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1027
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1032
+msgid "Git"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1034
+msgid "Enter your Git URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1041
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1046
+msgid "Pinterest"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1048
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1053
+msgid "Yahoo"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1055
+msgid "Enter your Yahoo URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1060
+msgid "Delicious"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1062
+msgid "Enter your Delicious URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1067
+msgid "Dropbox"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1069
+msgid "Enter your Dropbox URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1074
+msgid "Reddit"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1076
+msgid "Enter your Reddit URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1081
+msgid "Soundcloud"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1083
+msgid "Enter your Soundcloud URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1088
+msgid "Google"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1090
+msgid "Enter your Google URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1097
+msgid "Enter your Skype URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1102
+msgid "Youtube"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1104
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1109
+msgid "Tumblr"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1111
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1116
+msgid "Whatsapp"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1118
+msgid "Enter your Whatsapp URL."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1124
+msgid "Custom CSS"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1131
+msgid "CSS Code"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1132
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1142
+msgid "One Click Update"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1143
+msgid ""
+"Let us notify you when new versions of this theme are live on ThemeForest! "
+"Update with just one button click and forget about manual updates!<br> If "
+"you have any troubles while using auto update ( It is likely to be a "
+"permissions issue ) then you may want to manually update the theme as normal."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1149
+msgid "ThemeForest Username"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1151
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. "
+"Stylemixthemes)."
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1156
+msgid "ThemeForest Secret API Key"
+msgstr ""
+
+#: cinderella/inc/redux-framework/options-init.php:1158
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+msgid "Imported"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:122
+msgid "Import Demo"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:221
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:194
+msgid "Redux Framework"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1409
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1717
+msgid "Disable"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1723
+msgid "moving the mouse over"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1725
+msgid "clicking"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1729
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:1734
+msgid "Hints"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:2711
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/framework.php:2797
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:397
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:566
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:405
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:567
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:413
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:421
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:428
+msgid "Please Wait"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:439
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/enqueue.php:440
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/class.redux_functions.php:237
+msgid "Dismiss"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/debug.php:41
+#: cinderella/inc/redux-framework/redux-framework/inc/debug.php:69
+#: cinderella/inc/redux-framework/redux-framework/inc/debug.php:76
+#: cinderella/inc/redux-framework/redux-framework/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:154
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:218
+msgid "Redux Extensions"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:157
+#: cinderella/woocommerce/myaccount/form-edit-account.php:33
+#: cinderella/woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import Options"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from File"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:112
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Export Options"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Data"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Download Data File"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Export URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:277
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:314
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:198
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:126
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/background/field_background.php:321
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/media/field_media.php:205
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:69
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:73
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:76
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:133
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:125
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:191
+#: cinderella/vc_templates/stm_gallery.php:36
+msgid "All"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:138
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:152
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:62
+#: cinderella/woocommerce/global/form-login.php:29
+#: cinderella/woocommerce/myaccount/form-login.php:40
+#: cinderella/woocommerce/myaccount/form-login.php:87
+msgid "Password"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/password/field_password.php:63
+#: cinderella/woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:83
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/select/field_select.php:134
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:73
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:153
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:167
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:220
+#: cinderella/woocommerce/cart/cart.php:29
+msgid "Delete"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:258
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:273
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:342
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:343
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:365
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:366
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:388
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:389
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:408
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:409
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:432
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:441
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:450
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:459
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/color/validation_color.php:15
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/email/validation_email.php:16
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:174
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:194
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:202
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:210
+msgid "Get Support"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:227
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:235
+msgid "Redux Framework Status"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:344
+msgid "Extensions"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:352
+msgid "Credits"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:360
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1391
+#: cinderella/woocommerce/myaccount/my-orders.php:34
+#: cinderella/woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/welcome.php:517
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:8
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:8
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:8
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:82
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:31
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/changelog.php:5
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:358
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:22
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:47
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:50
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:51
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/footer.tpl.php:56
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:12
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: cinderella/inc/redux-framework/redux-framework/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:177
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:532
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1167
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1170
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1288
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1312
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2070
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2070
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: cinderella/inc/tgm/tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: cinderella/inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: cinderella/inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: cinderella/inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: cinderella/inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: cinderella/inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: cinderella/inc/widgets/contacts.php:92
+#: cinderella/inc/widgets/instagram.php:126
+#: cinderella/inc/widgets/pages.php:80 cinderella/inc/widgets/posts.php:123
+msgid "Title:"
+msgstr ""
+
+#: cinderella/inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr ""
+
+#: cinderella/inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr ""
+
+#: cinderella/inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr ""
+
+#: cinderella/inc/widgets/contacts.php:108
+msgid "E-mail:"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:13
+msgid "Instagram widget"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:51
+msgid "Error Instagram Token"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:55
+msgid "Error Client Id"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:130
+#: cinderella/inc/widgets/posts.php:126
+msgid "Number of posts to show:"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:134
+msgid "Cache: (h)"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:138
+msgid "Client Id:"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:142
+msgid "Secret:"
+msgstr ""
+
+#: cinderella/inc/widgets/instagram.php:146
+msgid "Token:"
+msgstr ""
+
+#: cinderella/inc/widgets/pages.php:6
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: cinderella/inc/widgets/pages.php:7
+msgid "STM Pages"
+msgstr ""
+
+#: cinderella/inc/widgets/pages.php:82
+msgid "Sort by:"
+msgstr ""
+
+#: cinderella/inc/widgets/pages.php:90
+msgid "Include:"
+msgstr ""
+
+#: cinderella/inc/widgets/pages.php:92
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: cinderella/inc/widgets/posts.php:6
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: cinderella/inc/widgets/posts.php:7
+msgid "STM Recent Posts"
+msgstr ""
+
+#: cinderella/inc/widgets/posts.php:36
+msgid "Recent Posts"
+msgstr ""
+
+#: cinderella/inc/widgets/posts.php:130
+msgid "Display post date?"
+msgstr ""
+
+#: cinderella/inc/widgets/schedule-table.php:45
+msgid "Schedule Item"
+msgstr ""
+
+#: cinderella/partials/content-loop_grid.php:17
+#: cinderella/partials/content-loop_list.php:27
+msgid "READ MORE"
+msgstr ""
+
+#: cinderella/partials/content-loop_list.php:18
+msgid "Tags:"
+msgstr ""
+
+#: cinderella/partials/content-loop_list.php:24
+#: cinderella/partials/content.php:70
+#: cinderella/vc_templates/stm_post_info.php:17
+msgid "Comments:"
+msgstr ""
+
+#: cinderella/partials/content-loop_list.php:25
+#: cinderella/partials/content.php:71
+#: cinderella/vc_templates/stm_post_info.php:18
+msgid "Posted by:"
+msgstr ""
+
+#: cinderella/partials/content-none.php:2
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable. <br/>Please try the following:"
+msgstr ""
+
+#: cinderella/partials/content-none.php:4
+msgid ""
+"Make sure that the Web site address displayed in the address bar of your "
+"browser is spelled and formatted correctly"
+msgstr ""
+
+#: cinderella/partials/content-none.php:5
+msgid ""
+"If you reached this page by clicking a link, contact us to alert us that the "
+"link is incorrectly formatted"
+msgstr ""
+
+#: cinderella/partials/content-none.php:7
+msgid "BACK TO HOME"
+msgstr ""
+
+#: cinderella/partials/content-page.php:15 cinderella/partials/content.php:11
+#: cinderella/partials/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#: cinderella/partials/content-page.php:19 cinderella/partials/content.php:15
+msgid "Page"
+msgstr ""
+
+#: cinderella/partials/title_box.php:41
+msgid "Search"
+msgstr ""
+
+#: cinderella/partials/title_box.php:49
+msgid "Sorry, this page doesn`t exist."
+msgstr ""
+
+#: cinderella/partials/title_box.php:132
+msgid "The page you requested was not found."
+msgstr ""
+
+#: cinderella/partials/title_box.php:148
+msgid "CONTACT US"
+msgstr ""
+
+#: cinderella/vc_templates/stm_contact.php:25
+msgid "Phone: "
+msgstr ""
+
+#: cinderella/vc_templates/stm_contact.php:28
+msgid "Email: "
+msgstr ""
+
+#: cinderella/vc_templates/stm_contact.php:31
+msgid "Skype: "
+msgstr ""
+
+#: cinderella/vc_templates/stm_contacts_widget.php:3
+msgid "Services"
+msgstr ""
+
+#: cinderella/vc_templates/stm_post_author_box.php:16
+msgid "Author:"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancies.php:17
+msgid "Job Posting Title"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancies.php:20
+#: cinderella/woocommerce/myaccount/my-orders.php:33
+#: cinderella/woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancy_details.php:12
+msgid "Departament:"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancy_details.php:16
+msgid "Project Location(s):"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancy_details.php:20
+msgid "Job Type:"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancy_details.php:24
+msgid "Education:"
+msgstr ""
+
+#: cinderella/vc_templates/stm_vacancy_details.php:28
+msgid "Compensation:"
+msgstr ""
+
+#: cinderella/woocommerce/product-searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: cinderella/woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-shipping.php:22
+#: cinderella/woocommerce/cart/cart-shipping.php:97
+#: cinderella/woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-shipping.php:76
+#: cinderella/woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-totals.php:24
+#: cinderella/woocommerce/cart/mini-cart.php:63
+#: cinderella/woocommerce/checkout/review-order.php:49
+msgid "Subtotal"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-totals.php:78
+#: cinderella/woocommerce/cart/cart.php:28
+#: cinderella/woocommerce/checkout/review-order.php:22
+#: cinderella/woocommerce/checkout/review-order.php:96
+#: cinderella/woocommerce/myaccount/my-orders.php:35
+#: cinderella/woocommerce/myaccount/my-orders.php:58
+#: cinderella/woocommerce/order/order-details.php:22
+msgid "Total"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:25
+#: cinderella/woocommerce/checkout/form-pay.php:20
+#: cinderella/woocommerce/checkout/review-order.php:21
+#: cinderella/woocommerce/emails/admin-cancelled-order.php:22
+#: cinderella/woocommerce/emails/admin-new-order.php:27
+#: cinderella/woocommerce/emails/customer-completed-order.php:27
+#: cinderella/woocommerce/emails/customer-invoice.php:31
+#: cinderella/woocommerce/emails/customer-note.php:31
+#: cinderella/woocommerce/emails/customer-processing-order.php:27
+#: cinderella/woocommerce/order/order-details.php:21
+msgid "Product"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:27
+#: cinderella/woocommerce/emails/admin-cancelled-order.php:23
+#: cinderella/woocommerce/emails/admin-new-order.php:28
+#: cinderella/woocommerce/emails/customer-completed-order.php:28
+#: cinderella/woocommerce/emails/customer-invoice.php:32
+#: cinderella/woocommerce/emails/customer-note.php:32
+#: cinderella/woocommerce/emails/customer-processing-order.php:28
+msgid "Quantity"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:101
+#: cinderella/woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:117
+msgid "Coupon"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:117
+#: cinderella/woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:117
+#: cinderella/woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cart.php:123
+msgid "Update Cart"
+msgstr ""
+
+#: cinderella/woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: cinderella/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: cinderella/woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: cinderella/woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:47
+#: cinderella/woocommerce/cart/shipping-calculator.php:53
+#: cinderella/woocommerce/cart/shipping-calculator.php:65
+msgid "State / county"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / Zip"
+msgstr ""
+
+#: cinderella/woocommerce/cart/shipping-calculator.php:87
+msgid "Update Totals"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-pay.php:55
+#: cinderella/woocommerce/checkout/payment.php:17
+msgid "Payment"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-pay.php:80
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-pay.php:90
+msgid "Pay for order"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/form-shipping.php:58
+#: cinderella/woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/payment.php:31
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/payment.php:44
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/payment.php:54
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/review-order.php:16
+msgid "Your order"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:28
+#: cinderella/woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:36
+#: cinderella/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: cinderella/woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/admin-cancelled-order.php:13
+#: cinderella/woocommerce/emails/plain/admin-cancelled-order.php:15
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/admin-cancelled-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/admin-new-order.php:18
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/admin-new-order.php:22
+#: cinderella/woocommerce/emails/customer-completed-order.php:22
+#: cinderella/woocommerce/emails/customer-invoice.php:26
+#: cinderella/woocommerce/emails/customer-note.php:26
+#: cinderella/woocommerce/emails/customer-processing-order.php:22
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-completed-order.php:18
+#: cinderella/woocommerce/emails/plain/customer-completed-order.php:16
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-invoice.php:20
+#: cinderella/woocommerce/emails/plain/customer-invoice.php:17
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-invoice.php:20
+msgid "pay"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-new-account.php:18
+#: cinderella/woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-new-account.php:22
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-new-account.php:26
+#: cinderella/woocommerce/emails/plain/customer-new-account.php:21
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-note.php:18
+#: cinderella/woocommerce/emails/plain/customer-note.php:16
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-note.php:22
+#: cinderella/woocommerce/emails/plain/customer-note.php:24
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-processing-order.php:18
+#: cinderella/woocommerce/emails/plain/customer-processing-order.php:16
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-reset-password.php:18
+#: cinderella/woocommerce/emails/plain/customer-reset-password.php:16
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-reset-password.php:19
+#: cinderella/woocommerce/emails/plain/customer-reset-password.php:18
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-reset-password.php:20
+#: cinderella/woocommerce/emails/plain/customer-reset-password.php:19
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-reset-password.php:21
+#: cinderella/woocommerce/emails/plain/customer-reset-password.php:20
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: cinderella/woocommerce/emails/customer-reset-password.php:24
+msgid "Click here to reset your password"
+msgstr ""
+
+#: cinderella/woocommerce/emails/email-addresses.php:20
+#: cinderella/woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: cinderella/woocommerce/emails/email-addresses.php:30
+#: cinderella/woocommerce/emails/plain/email-addresses.php:18
+msgid "Shipping address"
+msgstr ""
+
+#: cinderella/woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: cinderella/woocommerce/emails/email-order-items.php:54
+#: cinderella/woocommerce/emails/plain/email-order-items.php:49
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: cinderella/woocommerce/emails/email-order-items.php:56
+#: cinderella/woocommerce/emails/plain/email-order-items.php:51
+msgid "Download"
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/admin-cancelled-order.php:21
+#: cinderella/woocommerce/emails/plain/admin-new-order.php:22
+#: cinderella/woocommerce/emails/plain/customer-completed-order.php:22
+#: cinderella/woocommerce/emails/plain/customer-invoice.php:23
+#: cinderella/woocommerce/emails/plain/customer-note.php:30
+#: cinderella/woocommerce/emails/plain/customer-processing-order.php:22
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/admin-cancelled-order.php:22
+#: cinderella/woocommerce/emails/plain/admin-new-order.php:23
+#: cinderella/woocommerce/emails/plain/customer-completed-order.php:23
+#: cinderella/woocommerce/emails/plain/customer-invoice.php:24
+#: cinderella/woocommerce/emails/plain/customer-note.php:31
+#: cinderella/woocommerce/emails/plain/customer-processing-order.php:23
+msgid "jS F Y"
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/admin-cancelled-order.php:36
+#: cinderella/woocommerce/emails/plain/admin-new-order.php:37
+#, php-format
+msgid "View order: %s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/admin-new-order.php:16
+#, php-format
+msgid "You have received an order from %s."
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/customer-new-account.php:19
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/email-order-items.php:35
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: cinderella/woocommerce/emails/plain/email-order-items.php:38
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: cinderella/woocommerce/global/form-login.php:26
+#: cinderella/woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: cinderella/woocommerce/global/form-login.php:37
+#: cinderella/woocommerce/myaccount/form-login.php:30
+#: cinderella/woocommerce/myaccount/form-login.php:47
+msgid "Login"
+msgstr ""
+
+#: cinderella/woocommerce/global/form-login.php:40
+#: cinderella/woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr ""
+
+#: cinderella/woocommerce/global/form-login.php:42
+#: cinderella/woocommerce/myaccount/form-login.php:51
+msgid "Lost your password?"
+msgstr ""
+
+#: cinderella/woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: cinderella/woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: cinderella/woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: cinderella/woocommerce/loop/sale-flash.php:19
+#: cinderella/woocommerce/single-product/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-add-payment-method.php:41
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-add-payment-method.php:49
+msgid "Add Payment Method"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:41
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:45
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-account.php:59
+msgid "Save changes"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-address.php:16
+#: cinderella/woocommerce/myaccount/my-address.php:19
+#: cinderella/woocommerce/myaccount/my-address.php:25
+#: cinderella/woocommerce/order/order-details.php:189
+msgid "Billing Address"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-address.php:16
+#: cinderella/woocommerce/myaccount/my-address.php:20
+#: cinderella/woocommerce/order/order-details.php:208
+msgid "Shipping Address"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-edit-address.php:45
+msgid "Save Address"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-login.php:32
+msgid "If you have shopped with us before, please enter your details."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-login.php:37
+msgid "Username or email address"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-login.php:66
+#: cinderella/woocommerce/myaccount/form-login.php:100
+msgid "Register"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-login.php:68
+msgid "If you are a new customer please register here"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-login.php:93
+msgid "Anti-spam"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-lost-password.php:48
+msgid "Reset Password"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/form-lost-password.php:48
+msgid "Save"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/view-order.php:24
+#: cinderella/woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: cinderella/woocommerce/myaccount/view-order.php:30
+#: cinderella/woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: cinderella/woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: cinderella/woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: cinderella/woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: cinderella/woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: cinderella/woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#: cinderella/woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:17
+msgid "Order Details"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:58
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:122
+#: cinderella/woocommerce/order/order-details.php:126
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:144
+msgid "Refunded:"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:153
+msgid "Note:"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:163
+msgid "Customer details"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:168
+msgid "Email:"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:172
+msgid "Telephone:"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:172
+msgid "Telephone"
+msgstr ""
+
+#: cinderella/woocommerce/order/order-details.php:194
+#: cinderella/woocommerce/order/order-details.php:213
+#: cinderella/woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: cinderella/woocommerce/order/tracking.php:14
+#, php-format
+msgid "Order #%s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: cinderella/woocommerce/order/tracking.php:14
+msgid "ago"
+msgstr ""
+
+#: cinderella/woocommerce/order/tracking.php:16
+msgid "and was completed"
+msgstr ""
+
+#: cinderella/woocommerce/order/tracking.php:16
+msgid " ago"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: cinderella/woocommerce/single-product/add-to-cart/variable.php:96
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: cinderella/woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""

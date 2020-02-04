@@ -1,0 +1,449 @@
+/*
+    Beach Skin Styles
+*/
+
+body.skin_beach h1:after,
+body.skin_beach .h1:after,
+body.skin_beach h2:after,
+body.skin_beach .h2:after,
+body.skin_beach h3:after,
+body.skin_beach .h3:after,
+body.skin_beach h4:after,
+body.skin_beach .h4:after,
+body.skin_beach h5:after,
+body.skin_beach .h5:after,
+body.skin_beach h6:after,
+body.skin_beach .h6:after,
+body.skin_beach .top_nav .top_nav_wrapper,
+body.skin_beach .top_nav .top_nav_wrapper > ul > li ul li:hover > a,
+body.skin_beach .top_nav .top_nav_wrapper > ul > li ul li.current-menu-item > a,
+body.skin_beach .top_nav .main_menu_nav > ul > li ul li:hover > a,
+body.skin_beach .top_nav .main_menu_nav > ul > li ul li.current-menu-item > a,
+body.skin_beach .icon_box .icon:before,
+body.skin_beach .icon_box h4:after,
+body.skin_beach .stm_services_tabs .services_categories ul li.ui-state-active a,
+body.skin_beach .stm_services_tabs .service_tab_item .service_sticker,
+body.skin_beach .dropcarps_circle:before,
+body.skin_beach .vc_progress_bar .vc_single_bar.bar_red .vc_bar,
+body.skin_beach ul.page-numbers .page-numbers.current,
+body.skin_beach ul.page-numbers .page-numbers:hover,
+body.skin_beach ul.page-numbers .page-numbers:active,
+body.skin_beach ul.page-numbers .page-numbers:focus,
+body.skin_beach .page-links > span,
+body.skin_beach .page-links > a:hover,
+body.skin_beach .page-links > a:active,
+body.skin_beach .page-links > a:focus,
+body.skin_beach .not_found_block li:before,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_beach .pricing-table_label,
+body.skin_beach .vacancy_table th.headerSortDown,
+body.skin_beach .vacancy_table th.headerSortUp,
+body.skin_beach .stm_staff .job:after,
+body.skin_beach .stm_staff_2 .job:after,
+body.skin_beach .gallery_grid_filter ul li.active a,
+body.skin_beach .gallery_grid_filter ul li a:hover,
+body.skin_beach .top_bar_info_switcher .active,
+body.skin_beach .top_bar_info_switcher ul,
+body.skin_beach .stm_pricing_list_block .service_tab_item .service_sticker,
+body.skin_beach #frontend_customizer_button,
+body.skin_beach.woocommerce span.onsale,
+body.skin_beach.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{
+    background-color: #4abbc7;
+}
+
+body.skin_beach .vc_row.colored_1{
+    background-color: #4abbc7 !important;
+}
+
+body.skin_beach .icon_text .icon,
+body.skin_beach .icon_box .icon,
+body.skin_beach .stm_services_tabs .service_tab_item .service_cost,
+body.skin_beach .posts_grid .post_date .post_date_day,
+body.skin_beach .posts_grid .post_info h3 a:hover,
+body.skin_beach .posts_grid li.sticky .post_info h3 a,
+body.skin_beach .widget_contacts .icon,
+body.skin_beach .dropcarps_circle:first-letter,
+body.skin_beach .wpb_content_element ul li:before,
+body.skin_beach .posts_list .post_date .post_date_day,
+body.skin_beach .posts_list .post_info h3 a:hover,
+body.skin_beach .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_beach .pricing-table_content ul li:before,
+body.skin_beach .widget_pages.vc_widgets li a:hover,
+body.skin_beach .widget_pages.vc_widgets li.current_page_item a,
+body.skin_beach .widget_pages.vc_widgets li:hover:before,
+body.skin_beach .widget_pages.vc_widgets li.current_page_item:before,
+body.skin_beach .vc_widgets.widget_contacts .text a:hover,
+body.skin_beach .vacancy_table th:hover:after,
+body.skin_beach .company_history .year,
+body.skin_beach ul.comment-list .comment .comment-meta a:hover,
+body.skin_beach .widget_categories ul li:before,
+body.skin_beach .widget_archive ul li:before,
+body.skin_beach .widget_pages ul li:before,
+body.skin_beach .widget_meta ul li:before,
+body.skin_beach .widget_recent_entries ul li:before,
+body.skin_beach .widget_rss ul li:before,
+body.skin_beach .widget_nav_menu ul li:before,
+body.skin_beach .widget_categories li a:hover,
+body.skin_beach .widget_archive li a:hover,
+body.skin_beach .widget_pages li a:hover,
+body.skin_beach .widget_meta li a:hover,
+body.skin_beach .widget_recent_entries li a:hover,
+body.skin_beach .widget_rss li a:hover,
+body.skin_beach .widget_nav_menu li a:hover,
+body.skin_beach .stm_widget_recent_entries ul li .post_info a:hover,
+body.skin_beach .widget_recent_comments ul li a:hover,
+body.skin_beach .tp_recent_tweets ul li a:hover,
+body.skin_beach .gallery_grid_wrapper.white .gallery_grid_filter ul li.active a,
+body.skin_beach .gallery_grid_wrapper.white .gallery_grid_filter ul li a:hover,
+body.skin_beach #stm_wpml_lang_switcher li a:hover,
+body.skin_beach .top_bar .top_bar_info li .fa,
+body.skin_beach .top_bar .top_bar_socials a:hover,
+body.skin_beach .widget_categories.footer_widgets li a:hover,
+body.skin_beach .widget_archive.footer_widgets li a:hover,
+body.skin_beach .widget_pages.footer_widgets li a:hover,
+body.skin_beach .widget_meta.footer_widgets li a:hover,
+body.skin_beach .widget_recent_entries.footer_widgets li a:hover,
+body.skin_beach .widget_rss.footer_widgets li a:hover,
+body.skin_beach .widget_nav_menu.footer_widgets li a:hover,
+body.skin_beach .widget_recent_comments.footer_widgets ul li a:hover,
+body.skin_beach .stm_pricing_list_block .service_tab_item .service_cost,
+body.skin_beach.woocommerce .star-rating span{
+    color: #4abbc7;
+}
+
+body.skin_beach .breadcrumbs a:hover,
+body.skin_beach .gallery_grid_switcher:hover{
+    color: #4abbc7 !important;
+}
+
+body.skin_beach ul.page-numbers .page-numbers.current,
+body.skin_beach ul.page-numbers .page-numbers:hover,
+body.skin_beach ul.page-numbers .page-numbers:active,
+body.skin_beach ul.page-numbers .page-numbers:focus,
+body.skin_beach .page-links > span,
+body.skin_beach .page-links > a:hover,
+body.skin_beach .page-links > a:active,
+body.skin_beach .page-links > a:focus,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_beach .stm_pricing-table.has-label,
+body.skin_beach .widget_pages.vc_widgets,
+body.skin_beach .vacancy_table th.headerSortDown,
+body.skin_beach .vacancy_table th.headerSortUp,
+body.skin_beach .widget_categories,
+body.skin_beach .widget_archive,
+body.skin_beach .widget_calendar,
+body.skin_beach .widget_pages,
+body.skin_beach .widget_meta,
+body.skin_beach .widget_recent_entries,
+body.skin_beach .widget_rss,
+body.skin_beach .widget_nav_menu,
+body.skin_beach .gallery_grid_switcher:hover{
+    border-color: #4abbc7;
+}
+
+body.skin_beach blockquote,
+body.skin_beach .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a{
+    border-left-color: #4abbc7;
+}
+
+body.skin_beach #frontend_customizer_button:before{
+    border-right-color: #4abbc7;
+}
+
+body.skin_beach .stm_services_tabs .service_tab_item .service_dots .separator_dots,
+body.skin_beach .stm_pricing_list_block .service_tab_item .service_dots .separator_dots,
+body.skin_beach.woocommerce ul.products li.product .price:after{
+    border-bottom-color: #4abbc7;
+}
+
+@media only screen and (max-width: 768px) {
+
+    body.skin_beach .mobile_header .header_info,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav > li > a{
+        background-color: #4abbc7;
+    }
+
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav ul li:active > a,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav li.current_page_item > a,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav > li.current_page_item.menu-item-has-children .arrow,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav li.current-menu-parent > a,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav > li.current-menu-parent.menu-item-has-children .arrow{
+        color: #4abbc7;
+    }
+
+    body.skin_beach .icon_text .icon{
+        color: #ffffff;
+    }
+
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav li.current_page_item > a,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav > li.current_page_item.menu-item-has-children .arrow,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav li.current-menu-parent > a,
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav > li.current-menu-parent.menu-item-has-children .arrow{
+        background: #ffffff;
+    }
+
+    body.skin_beach .mobile_header .top_nav_mobile .main_menu_nav > li{
+        border-bottom-color: #ffffff;
+    }
+
+}
+
+body.skin_beach.demo #magic-line,
+body.skin_beach.demo .slick_carousel .slick_item:hover a:before{
+    background-color: #170036;
+}
+
+body.skin_beach a:hover,
+body.skin_beach a:active,
+body.skin_beach .company_history h3,
+body.skin_beach .stm_pricing_list_block h3{
+    color: #170036;
+}
+
+body.skin_beach.woocommerce #respond input#submit,
+body.skin_beach.woocommerce a.button,
+body.skin_beach.woocommerce button.button,
+body.skin_beach.woocommerce input.button{
+    background-color: transparent;
+}
+
+body.skin_beach a.button,
+body.skin_beach .button,
+body.skin_beach .form-submit .submit,
+body.skin_beach .post-password-form input[type="submit"],
+body.skin_beach .vc_btn3.vc_btn3-color-pink,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-flat,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:focus,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_beach .stm_staff_2 .staff_socials li a:hover,
+body.skin_beach .tagcloud a:hover,
+body.skin_beach .vc_images_carousel .vc_carousel-control,
+body.skin_beach .vc_images_carousel .vc_carousel-indicators .vc_active,
+body.skin_beach.woocommerce #respond input#submit:hover,
+body.skin_beach.woocommerce a.button:hover,
+body.skin_beach.woocommerce button.button:hover,
+body.skin_beach.woocommerce input.button:hover,
+body.skin_beach.woocommerce .quantity_actions span:hover,
+body.skin_beach.woocommerce #respond input#submit.alt,
+body.skin_beach.woocommerce a.button.alt,
+body.skin_beach.woocommerce button.button.alt,
+body.skin_beach.woocommerce input.button.alt,
+body.skin_beach.woocommercbody.skin_beache #respond input#submit.alt.disabled,
+body.skin_beach.woocommerce #respond input#submit.alt.disabled:hover,
+body.skin_beach.woocommerce #respond input#submit.alt:disabled,
+body.skin_beach.woocommerce #respobody.skin_beachnd input#submit.alt:disabled:hover,
+body.skin_beach.woocommerce #respond input#submit.alt:disabled[disabled],
+body.skin_beach.woocommerce #respond input#submit.alt:disabled[disabled]:hover,
+body.skin_beach.woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover,
+body.skin_beach.woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover,
+body.skin_beach.woocommerce a.button.alt:disabled[disabled],
+body.skin_beach.woocommerce a.button.alt:disabled[disabled]:hover,
+body.skin_beach.woocommerce button.button.alt.disabled,
+body.skin_beach.woocommerce button.button.alt.disabled:hover,
+body.skin_beach.woocommerce button.button.alt:disabled,
+body.skin_beach.woocommerce button.button.alt:disabled:hover,
+body.skin_beach.woocommerce button.button.alt:disabled[disabled],
+body.skin_beach.woocommerce button.button.alt:disabled[disabled]:hover,
+body.skin_beach.woocommerce input.button.alt.disabled,
+body.skin_beach.woocommerce input.button.alt.disabled:hover,
+body.skin_beach.woocommerce input.button.alt:disabled,
+body.skin_beach.woocommerce input.button.alt:disabled:hover,
+body.skin_beach.woocommerce input.button.alt:disabled[disabled],
+body.skin_beach.woocommerce input.button.alt:disabled[disabled]:hover,
+body.skin_beach.woocommerce #respond input#submit,
+body.skin_beach.woocommerce input.button.flat,
+body.skin_beach.woocommerce .search-form button.button,
+body.skin_beach .woocommerce #respond input#submit,
+body.skin_beach .woocommerce input.button.flat,
+body.skin_beach .woocommerce .search-form button.button,
+body.skin_beach .woocommerce #respond input#submit.alt,
+body.skin_beach .woocommerce a.button.alt,
+body.skin_beach .woocommerce button.button.alt,
+body.skin_beach .woocommerce input.button.alt{
+    background-color: #ffa44a;
+}
+
+body.skin_beach a,
+body.skin_beach a.button.outline,
+body.skin_beach .button.outline,
+body.skin_beach .icon_box h4 a:hover,
+body.skin_beach .stm_services_tabs .service_tab_item .service_name a:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-white,
+body.skin_beach .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat,
+body.skin_beach .vc_btn3.vc_btn3-color-white:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-white:focus,
+body.skin_beach .vc_btn3.vc_btn3-color-white.vc_btn3-style-flat:focus,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_beach ul.post_details a:hover,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover a,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus a,
+body.skin_beach .vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a,
+body.skin_beach .stm_staff .staff_socials ul li a:hover,
+body.skin_beach .stm_staff_2 .staff_socials li a,
+body.skin_beach .service_list h4 a:hover,
+body.skin_beach .gallery_grid_filter ul li a,
+body.skin_beach .stm_pricing_list_block .service_tab_item .service_name a:hover,
+body.skin_beach.woocommerce ul.products li.product h4 a:hover,
+body.skin_beach.woocommerce #respond input#submit,
+body.skin_beach.woocommerce a.button,
+body.skin_beach.woocommerce button.button,
+body.skin_beach.woocommerce input.button,
+body.skin_beach.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+body.skin_beach .copyright a:hover{
+    color: #ffa44a;
+}
+
+body.skin_beach .gallery_grid_switcher{
+    color: #ffa44a !important;
+}
+
+body.skin_beach .button,
+body.skin_beach .form-submit .submit,
+body.skin_beach .post-password-form input[type="submit"],
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_beach ul.page-numbers .page-numbers,
+body.skin_beach .page-links > a,
+body.skin_beach .page-links > span,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover .vc_tta-controls-icon::before,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover .vc_tta-controls-icon::after,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus .vc_tta-controls-icon::before,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus .vc_tta-controls-icon::after,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab > a:focus,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_beach .our_partners > ul > li:hover .logo,
+body.skin_beach .stm_staff .staff_socials ul li a:hover,
+body.skin_beach .stm_staff_2 .staff_socials li a,
+body.skin_beach .vc_images_carousel .vc_carousel-indicators li,
+body.skin_beach .vc_images_carousel .vc_carousel-indicators .vc_active,
+body.skin_beach .gallery_grid_switcher,
+body.skin_beach .product_thumbnail:hover,
+body.skin_beach.woocommerce #respond input#submit:hover,
+body.skin_beach.woocommerce a.button:hover,
+body.skin_beach.woocommerce button.button:hover,
+body.skin_beach.woocommerce input.button:hover,
+body.skin_beach.woocommerce .quantity_actions span:hover,
+body.skin_beach.woocommerce #respond input#submit,
+body.skin_beach.woocommerce input.button.flat,
+body.skin_beach.woocommerce .search-form button.button,
+body.skin_beach .woocommerce #respond input#submit:hover,
+body.skin_beach .woocommerce input.button.flat:hover,
+body.skin_beach .woocommerce .search-form button.button:hover,
+body.skin_beach .woocommerce #respond input#submit.alt:hover,
+body.skin_beach .woocommerce a.button.alt:hover,
+body.skin_beach .woocommerce button.button.alt:hover,
+body.skin_beach .woocommerce input.button.alt:hover{
+    border-color: #ffa44a;
+}
+
+body.skin_beach .icon_button .button.outline span{
+    border-left-color: #ffa44a;
+}
+
+body.skin_beach .select2-container--default .select2-selection--single .select2-selection__arrow b{
+    border-top-color: #ffa44a;
+}
+
+body.skin_beach .select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b{
+    border-bottom-color: #ffa44a;
+}
+
+body.skin_beach .top_nav .icon_text .icon,
+body.skin_beach a.button,
+body.skin_beach .button,
+body.skin_beach .form-submit .submit,
+body.skin_beach .post-password-form input[type="submit"],
+body.skin_beach .breadcrumbs a,
+body.skin_beach .breadcrumbs,
+body.skin_beach .title_box_secondary_text,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover a,
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus a,
+body.skin_beach .vacancy_table th.headerSortDown:after,
+body.skin_beach .vacancy_table th.headerSortUp:after,
+body.skin_beach .vacancy_table th.headerSortDown:hover:after,
+body.skin_beach .vacancy_table th.headerSortUp:hover:after,
+body.skin_beach .stm_staff_2 .staff_socials li a:hover,
+body.skin_beach .gallery_grid_filter ul li.active a,
+body.skin_beach .gallery_grid_filter ul li a:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:focus,
+body.skin_beach .tagcloud a:hover,
+body.skin_beach.woocommerce #respond input#submit:hover,
+body.skin_beach.woocommerce a.button:hover,
+body.skin_beach.woocommerce button.button:hover,
+body.skin_beach.woocommerce input.button:hover,
+body.skin_beach.woocommerce #respond input#submit.alt,
+body.skin_beach.woocommerce a.button.alt,
+body.skin_beach.woocommerce button.button.alt,
+body.skin_beach.woocommerce input.button.alt,
+body.skin_beach.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+body.skin_beach.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover,
+body.skin_beach.woocommerce #respond input#submit,
+body.skin_beach.woocommerce input.button.flat,
+body.skin_beach.woocommerce .search-form button.button,
+body.skin_beach .widget_contacts .text a:hover{
+    color: #ffffff;
+}
+
+body.skin_beach .icon_box h4 a,
+body.skin_beach .service_list h4 a,
+ul.post_details a
+{
+    color: #333333;
+}
+
+body.skin_beach .widget_categories li a,
+body.skin_beach .widget_archive li a,
+body.skin_beach .widget_pages li a,
+body.skin_beach .widget_meta li a,
+body.skin_beach .widget_recent_entries li a,
+body.skin_beach .widget_rss li a,
+body.skin_beach .widget_nav_menu li a {
+    color: #777777;
+}
+
+body.skin_beach .tagcloud a{
+    color: #999999;
+}
+
+body.skin_beach a.button:hover,
+body.skin_beach .button:hover,
+body.skin_beach .form-submit .submit:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-pink:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-flat:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-pink:focus,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-flat:focus,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:hover,
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline:focus{
+    background-color: rgba(227, 133, 40, 0.9);
+    border-color: rgba(227, 133, 40, 0.9);
+}
+
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:focus{
+    color: rgba(227, 133, 40, 0.9);
+}
+
+body.skin_beach .vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::after, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:hover .vc_tta-controls-icon::after, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus .vc_tta-controls-icon::before, body .vc_tta-color-white.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading:focus .vc_tta-controls-icon::after{
+    border-color: #fff;
+}
+
+body.skin_beach .vc_btn3.vc_btn3-color-pink.vc_btn3-style-outline,
+body.skin_beach .vc_tta-tabs.vc_tta-tabs-position-left.vc_tta-color-pink.vc_tta-style-classic .vc_tta-tab.vc_active > a,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:hover,
+body.skin_beach .vc_tta-tabs.vc_tta-color-pink.vc_tta-tabs-position-left.vc_tta-style-classic .vc_tta-tab > a:focus{
+    background-color: transparent;
+}
+
+body.skin_beach.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover{
+    color: #6b6b6b;
+}
